@@ -1,0 +1,32 @@
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.exe.config
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.csprojResolveAssemblyReference.cache
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.Properties.Resources.resources
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.GenerateResource.Cache
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.exe
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.pdb
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.Data.dll
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.dll
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.Graphviz.dll
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.Serialization.dll
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.xml
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.Data.xml
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.Graphviz.xml
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\bin\Debug\QuickGraph.Serialization.xml
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.exe
+c:\users\phat nguyen\documents\visual studio 2012\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.pdb
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\ChessProject.exe.config
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\obj\Debug\ChessProject.exe
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\obj\Debug\ChessProject.pdb
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\ChessProject.exe
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\ChessProject.pdb
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.Data.dll
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.dll
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.Graphviz.dll
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.Serialization.dll
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.xml
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.Data.xml
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.Graphviz.xml
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\bin\Debug\QuickGraph.Serialization.xml
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\obj\Debug\ChessProject.csprojResolveAssemblyReference.cache
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\obj\Debug\ChessProject.Properties.Resources.resources
+D:\LiThuyetDoThi\Seminar\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.GenerateResource.Cache
